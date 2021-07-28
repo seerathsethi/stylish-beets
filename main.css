@@ -75,3 +75,15 @@ footer, cite {
 section li {
   list-style: lower-greek;
 }
+
+section p {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+
+aside li {
+  list-style: circle;
+}
