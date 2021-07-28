@@ -9,8 +9,38 @@ html {
 
 body {
   background-color: #c9b5ab;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.5;
+}
+
+h1 {
+  font-family: "PT Sans", sans-setif;
+  font-size: 1.5rem;
+  color: #3f1662;
+}
+
+nav {
+  font-family: "PT Sans", sans-setif;
+  font-size: 1.125rem;
+  color: #8f2440
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:link {
+  color: #8f2440;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+img {
+  width: 100%
 }
