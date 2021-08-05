@@ -24,7 +24,7 @@ h1 {
 nav {
   font-family: "PT Sans", sans-setif;
   font-size: 1.125rem;
-  color: #8f2440
+  color: #8f2440;
 }
 
 a {
@@ -42,7 +42,7 @@ a:hover {
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 nav ol {
